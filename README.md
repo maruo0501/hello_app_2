@@ -1,24 +1,24 @@
-# README
+# oshi-cafe@okayama
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## サービスの概要
+岡山のお気に入りカフェを共有する投稿アプリケーション
 
-Things you may want to cover:
+## 機能一覧
+* 新規登録機能
+* ログイン/ログアウト機能
+* 簡単ログイン機能（ユーザーと同じ動作ができる）
+* 投稿/編集/削除機能
+* 投稿一覧/詳細機能
+* お気に入り機能
+* コメント投稿/削除機能
+* ユーザー情報編集機能
+* 画像ファイルのアップロード機能（複数枚アップロード可能）
+* ページネーション機能
 
-* Ruby version
+## 技術一覧
 
-* System dependencies
 
-* Configuration
 
-* Database creation
 
-* Database initialization
 
-* How to run the test suite
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
